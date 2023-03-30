@@ -42,6 +42,7 @@ def Income(p):
 
 
 def balance(name):
+    #better use try/except here,not if else,because in second case no way to reach code into "else" case
     if name in Persons:
         print(Persons[name])
     else:
