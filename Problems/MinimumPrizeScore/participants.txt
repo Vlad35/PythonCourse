@@ -1,0 +1,16 @@
+Smith John 80
+Doe Jane 75
+Johnson Bob 85
+Lee Sarah 90
+Kim David 85
+Brown Mary 70
+
+Ivanov Sergey 70
+Sergeev Petr 30
+Petrov Vasily 40
+Vasilev Andrey 80
+Andreev Denis 50
+Denisov Roman 90
+Romanov Ivan 70
+Kim Chen Ir 60
+Kim Ir Sen 100
